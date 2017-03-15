@@ -16,7 +16,7 @@ TARGET_SCREEN_WIDTH := 720
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := m350
-PRODUCT_NAME := cm_m350
+PRODUCT_NAME := lineage_m350
 PRODUCT_BRAND := ixion
 PRODUCT_MODEL := m350
 PRODUCT_MANUFACTURER := dexp
