@@ -1,2 +1,2 @@
 #used to add device to CM's lunch
-add_lunch_combo cm_m350-eng$var
+add_lunch_combo lineage_m350-eng$var
