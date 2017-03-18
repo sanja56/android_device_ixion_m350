@@ -1,5 +1,5 @@
 # Release name
-PRODUCT_RELEASE_NAME := m350
+PRODUCT_RELEASE_NAME := Ixion M350
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
@@ -18,7 +18,7 @@ TARGET_SCREEN_WIDTH := 720
 PRODUCT_DEVICE := m350
 PRODUCT_NAME := lineage_m350
 PRODUCT_BRAND := ixion
-PRODUCT_MODEL := m350
+PRODUCT_MODEL := Ixion M350
 PRODUCT_MANUFACTURER := dexp
 
 PRODUCT_DEFAULT_LANGUAGE := ru
