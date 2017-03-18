@@ -1,3 +1,6 @@
+DEVICE_PATH := device/ixion/m350
+VENDOR_PATH := vendor/ixion/m350
+
 # include proprietary libraries and binaries
 -include vendor/ixion/m350/BoardConfigVendor.mk
 
