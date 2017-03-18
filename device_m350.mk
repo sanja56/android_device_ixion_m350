@@ -5,6 +5,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # The gps config appropriate for this device
 $(call inherit-product, device/common/gps/gps_us_supl.mk)
 
+# Off ninja
+USE_NINJA=false
+
 $(call inherit-product, vendor/ixion/m350/m350-vendor.mk)
 
 DEVICE_PACKAGE_OVERLAYS += device/ixion/m350/overlay
